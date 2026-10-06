@@ -153,6 +153,7 @@ Production AI Applications
 - 🎓 Technology Education
 
 📊 GitHub Statistics
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rushikeshkalbande2503&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -160,7 +161,9 @@ Production AI Applications
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshkalbande2503&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 📈 Contribution Activity
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshkalbande2503&theme=tokyonight&hide_border=true" />
